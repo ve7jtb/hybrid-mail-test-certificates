@@ -1,0 +1,7 @@
+*.p12
+*.pfx
+*.key
+*.pk8
+*.eml
+.env
+.DS_Store
